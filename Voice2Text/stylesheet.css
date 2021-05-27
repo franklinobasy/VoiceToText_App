@@ -1,0 +1,34 @@
+QPushButton#Listen{
+    border-radius: 2px;
+}
+QLabel#TextOut{
+    background-color: cornflowerblue;
+    color: whitesmoke
+}
+QPushButton#AudioButton{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    border-radius: 10;
+    padding: 5px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+QPushButton#AudioButton:hover{
+    background-color: green;
+    color: whitesmoke;
+    border-radius: 10;
+    padding: 5px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+
+QGroupBox#AudioContainer{
+    padding: 2px;
+    border-radius: 8;
+    border-style: solid;
+    border-color: dimgrey;
+    border-width: 2px;
+}
+
